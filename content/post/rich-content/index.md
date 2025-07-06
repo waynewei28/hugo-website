@@ -1,11 +1,10 @@
 +++
 author = "Hugo Authors"
-title = "Rich Content"
+title = "多媒体内容测试"
 date = "2019-03-10"
-description = "A brief description of Hugo Shortcodes"
-tags = [
-    "shortcodes",
-    "privacy",
+description = "有一些网站的视频窗口"
+categories = [
+    "工具",
 ]
 +++
 
@@ -22,7 +21,7 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 ---
 ## bilibilibi Shortcode
 
-{{< bilibili av498363026 >}}
+{{< bilibili BV1d4411N7zD >}}
 
 ## Gist Shortcode
 
